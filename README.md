@@ -21,10 +21,10 @@
 
 Neddism represents a synthetic socioeconomic philosophy that seeks to harmonize four major political traditions:
 
-- **From Socialism:** Emphasis on collective ownership and equitable outcomes
-- **From Democracy:** Commitment to voluntary consent and participatory decision-making
-- **From Anarchy:** Maximization of individual autonomy and minimization of coercive hierarchy
-- **From Capitalism:** Recognition of personal management and incentive structures
+- **Socialism:** Emphasis on collective ownership and equitable outcomes
+- **Democracy:** Commitment to voluntary consent and participatory decision-making
+- **Anarchy:** Maximization of individual autonomy and minimization of coercive hierarchy
+- **Capitalism:** Recognition of personal management and incentive structures
 
 **Core Philosophy:** Neddism operates on the principle of *"Maximum liberty through minimum necessary restriction,"* where social harmony emerges not from enforced conformity but from respect for mutually-agreed boundaries.
 
@@ -186,21 +186,6 @@ Selfoneddists may participate in conventional economies while:
 - **Legal Recognition:** Treating Neddist communities as special jurisdiction zones
 
 ---
-
-## **Criticisms & Responses**
-
-### **Common Criticisms**
-1. **"Too Idealistic":** Assumes rational actors and voluntary cooperation
-   - *Response:* Neddism accounts for human nature through clear boundaries and proportional consequences
-
-2. **"Economic Inefficiency":** Collective ownership may reduce innovation incentives
-   - *Response:* Publoneddism maintains market mechanisms; Selfoneddism preserves individual incentives
-
-3. **"Decision Paralysis":** Requiring universal consent for community actions could prevent necessary measures
-   - *Response:* The "universally agreeable valid reason" exception allows for necessary actions without full consent
-
-4. **"Security Vulnerabilities":** Lack of professional police and military
-   - *Response:* Proportional defense principles and community defense networks provide security without state monopoly on violence
 
 ### **Internal Debates**
 - **Rigidity vs Flexibility:** How strictly to interpret the six pillars
