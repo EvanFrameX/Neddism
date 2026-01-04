@@ -70,11 +70,3 @@ Neddism embraces its internal philosophical challenges as points for dialogue:
 Neddism is presented not as a finished doctrine, but as an **open framework**. Pietro (Evan) invites philosophers, political thinkers, and interested individuals to engage with these principles, critique them, explore their implications, and help develop the applications of this ideology.
 
 **The central question of Neddism is:** *Can we build a world of both perfect freedom and perfect fairness, and if so, how?*
-
----
-
-### How to Engage
-*   **Discuss the tensions.**
-*   **Propose applications** (legal, economic, social).
-*   **Explore historical or contemporary societies** that reflect these pillars.
-*   **Challenge the axioms.**
