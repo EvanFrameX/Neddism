@@ -227,7 +227,7 @@ Neddism invites individuals to:
 4. Continuously refine the philosophy through practice and dialogue
 
 ### **Final Principle**
-> "Neddism is not a destination but a direction—a compass pointing toward greater liberty through greater responsibility, toward stronger community through stronger individuals, and toward deeper justice through deeper understanding."
+> "Neddism can be seen as a compass pointing toward greater liberty through greater responsibility, stronger community through stronger individuals, and deeper justice through deeper understanding."
 
 ---
 
