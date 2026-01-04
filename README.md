@@ -12,8 +12,7 @@
 5. [Selfoneddism: Individual-Based Model](#selfoneddism-individual-based-model)
 6. [Governance & Justice](#governance--justice)
 7. [Implementation & Transition](#implementation--transition)
-8. [Criticisms & Responses](#criticisms--responses)
-9. [Conclusion: The Neddist Vision](#conclusion-the-neddist-vision)
+8. [Conclusion: The Neddist Vision](#conclusion-the-neddist-vision)
 
 ---
 
