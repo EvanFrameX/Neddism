@@ -1,0 +1,2 @@
+# Neddism
+The biologicsl ideology
