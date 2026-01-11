@@ -109,7 +109,7 @@ A market-based system using Labor Credits (LC) as currency, emphasizing personal
 
 ### **Financial Guidelines**
 **The 70–85% Principle (Recommended):**
-
+```
 Income Allocation:
 ├── 70–85% → Resilience Fund
 │   ├── Basic necessities (housing, food, healthcare)
@@ -121,7 +121,7 @@ Income Allocation:
     ├── Voluntary community tax
     ├── Skill development
     └── Charitable giving
-
+```
 
 ### **Market Structure**
 - **Worker Cooperatives:** Common but not required
@@ -149,6 +149,7 @@ Income Allocation:
 ---
 
 ## **Governance & Justice**
+
 
 ### **Justice System Adaptations**
 - **Publoneddist Justice:** Focus on restoration and community harmony
