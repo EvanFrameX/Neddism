@@ -95,11 +95,12 @@ A market-based system using Labor Credits (LC) as currency, emphasizing personal
 - **Personal Ownership:** Complete control over earnings and property
 - **Voluntary Ethics:** Adherence to Neddist principles through personal choice
 - **Progressive Contribution:** Voluntary taxes to support Neddist commons
+- **Converting to other currencies:** 1 LC = 100 USD
 
 ### **The Labor Credit System**
 **Valuation:**  
 - Base: 1 LC = 1 hour of basic labor (e.g., farming, cleaning, construction)
-- Skilled labor receives multiplier (e.g., doctor: 3 LC/hour, teacher: 2 LC/hour)
+- Skilled labor receives multiplier (e.g., doctor: 5 LC/hour, teacher: 2 LC/hour)
 - Set by democratic council in each community
 
 **Features:**
