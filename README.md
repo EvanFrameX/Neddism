@@ -1,232 +1,99 @@
-# The Complete Doctrine of Neddism
+# **The Complete Doctrine of Neddism**
 
-*Founded by Evan Allen through the synthesis of Socialist, Democratic, Anarchist, and Capitalist principles*
+*Authored by Evan Allen*
 
----
+## **I. Philosophical Foundations & Genesis**
 
-## **Table of Contents**
-1. [Foundational Principles](#foundational-principles)
-2. [Social Doctrine: The Six Pillars](#social-doctrine-the-six-pillars)
-3. [Economic Frameworks](#economic-frameworks)
-4. [Publoneddism: Community-Based Model](#publoneddism-community-based-model)
-5. [Selfoneddism: Individual-Based Model](#selfoneddism-individual-based-model)
-6. [Governance & Justice](#governance--justice)
-7. [Implementation & Transition](#implementation--transition)
-8. [Criticisms & Responses](#criticisms--responses)
-9. [Conclusion: The Neddist Vision](#conclusion-the-neddist-vision)
+Neddism is a synthesized socioeconomic-political ideology born from a critical analysis of four foundational systems: **Socialism** (collective ownership, equity), **Democracy** (popular sovereignty, rights), **Anarchy** (voluntary association, anti-coercion), and **Capitalism** (private initiative, markets). It seeks to harmonize their core valid principles while eliminating their perceived contradictions and failures.
 
----
+Its ultimate goal is a society of **maximized individual sovereignty within a framework of voluntary, justified cooperation**, where force is never initiated, and all interactions are rooted in consent, merit, and demonstrable necessity.
 
-## **Foundational Principles**
+## **II. The Social Contract: The Six Pillars**
 
-Neddism represents a synthetic socioeconomic philosophy that seeks to harmonize four major political traditions:
+The bedrock of Neddist society. These are non-negotiable social axioms.
 
-- **From Socialism:** Emphasis on collective ownership and equitable outcomes
-- **From Democracy:** Commitment to voluntary consent and participatory decision-making
-- **From Anarchy:** Maximization of individual autonomy and minimization of coercive hierarchy
-- **From Capitalism:** Recognition of personal management and incentive structures
+### **Pillar 1: The Principle of Non-Interference & Justified Exception**
+> "Every citizen can do anything, as long as it does not sabotage or interfere with anyone else in any harmful way (e.g., stealing, bullying) unless voluntary consent is obtained from every affected party, or a universally agreeable valid reason exists."
 
-**Core Philosophy:** Neddism operates on the principle of *"Maximum liberty through minimum necessary restriction,"* where social harmony emerges not from enforced conformity but from respect for mutually-agreed boundaries.
+*   **Core:** Absolute negative liberty. Your right to swing your fist ends at another's nose.
+*   **The Dual Exception Framework:**
+    1.  **Full Consent:** Any potentially interfering action becomes permissible if **every single person** affected provides informed, uncoerced consent. (e.g., a risky community experiment).
+    2.  **Valid Reason:** An action causing temporary or necessary interference can be taken if a reason exists that is *objective, necessary for a greater good, and universally agreeable by any rational person* (e.g., restraining a person having a violent mental health crisis to administer aid).
 
----
-
-## **Social Doctrine: The Six Pillars**
-
-### **Pillar 1: The Liberty Principle**
-> "Every citizen can do anything, as long as it does not sabotage or interfere with anyone else in any harmful way unless voluntary consent is obtained from every affected party, or a universally agreeable valid reason exists."
-
-**Interpretation:** This establishes a harm-based boundary for action rather than morality-based legislation. The burden of proof rests on demonstrating harm, not on prohibiting actions deemed undesirable by majority opinion. "Voluntary consent" requires informed agreement without coercion.
-
-### **Pillar 2: The Proportional Defense Principle**
+### **Pillar 2: The Principle of Proportional Self-Defense**
 > "Every citizen has the right to self-defense. The permissible force is limited to a level below or equal to the force the attacker attempted to use."
 
-**Interpretation:** This creates a clear escalation ladder preventing excessive retaliation while maintaining individual security. The principle acknowledges defensive rights while curbing vengeance cycles.
+*   Defense is a right, not a privilege. However, it is not a license for retribution.
+*   The response must be a **measured escalation** focused solely on stopping the aggression. Lethal force is only permissible against a lethal threat.
 
-### **Pillar 3: The Resistance Principle**
+### **Pillar 3: The Right of Resistance**
 > "Every citizen has the right to stand against any individual, group, or institution that seeks to violate their freedom and rights."
 
-**Interpretation:** Legitimizes civil disobedience and resistance against unjust authority. No institution is granted immunity from accountability.
+*   This legitimizes resistance against tyranny, corruption, or any entity violating Pillar 1. It is the enforcement mechanism of the social contract.
 
-### **Pillar 4: The Justice Synthesis**
+### **Pillar 4: Justice as Global Synthesis**
 > "Justice must be administered as a synthesis of global respect (dignity for all persons) and global fairness (equitable outcomes and opportunities across society)."
 
-**Interpretation:** Justice serves dual purposes: restorative (respecting human dignity) and distributive (ensuring societal fairness). This bridges retributive and restorative justice models.
+*   **Global Respect:** Justice must never degrade human dignity (no cruel/unusual punishment, respect for the accused).
+*   **Global Fairness:** Outcomes must consider systemic context. Justice seeks to restore not just legal balance, but social and opportunity equity.
 
-### **Pillar 5: The Anti-Coercion Principle**
+### **Pillar 5: The Anti-Compulsion Principle**
 > "No citizen may be compelled to do anything or go anywhere against their will, unless there exists a valid reason that the affected individual can themselves agree is justified."
 
-**Interpretation:** Coercion requires not just objective justification but *subjective understanding*. The standard is whether the coerced individual, when properly informed, would acknowledge the necessity.
+*   The ultimate bar for coercion is incredibly high. The "valid reason" must be explainable and justifiable **to the person being compelled**. This fosters a society of persuasion and reason, not mandate.
+*   *Example:* A child cannot be *arbitrarily* forced to the dentist. The parent must explain the necessity of dental health, the consequences of neglect, and the process. The child's understanding and agreement to the justification is required.
 
-### **Pillar 6: The Action-Result Focus**
+### **Pillar 6: Materialist Focus**
 > "What counts aren't thoughts and insults, but physical action, the process, and the result."
 
-**Interpretation:** Neddism distinguishes between offensive speech and harmful action. While social consequences may follow offensive speech, only harmful actions trigger formal sanctions.
+*   Neddism is concerned with **material reality**, not ideology or speech. Hateful thoughts or offensive speech are not actionable. Only tangible, harmful *actions* (or credible, immediate threats thereof) fall under social sanction. The quality of an outcome is judged by its real-world effects.
 
----
+## **III. Economic Implementation: The Two Paths**
 
-## **Economic Frameworks**
+Neddism branches into two economic systems, chosen by communities or individuals based on preference and context. Both operate under the Six Pillars.
 
-Neddism recognizes two compatible economic models, applicable based on community choice and individual circumstances:
+### **A. Publoneddism: The Communitarian Meritocracy**
 
-### **The Dual-System Approach**
-1. **Publoneddism:** For communities choosing collective ownership
-2. **Selfoneddism:** For individuals operating outside collective communities
+*   **Analog:** Market Socialism with a strict Meritocratic overlay.
+*   **Core Tenet:** The community collectively owns all major means of production, essential resources, and public goods (land, healthcare infrastructure, educational institutions, major industries).
+*   **Mechanism of Use:**
+    1.  **Stewardship, Not Absolutism:** While collectively owned, resources are managed by "formal owners" (e.g., a farmer stewards a plot of land, a doctor stewards a clinic). They are not absolute owners, but primary custodians.
+    2.  **Access Rule:** To use a resource, one must obtain **voluntary permission** from its steward. The steward must grant access if the use aligns with community benefit and the user's merit.
+    3.  **The Meritocratic Engine:** **"The more you work hard for the community, the more resources you're allowed to have."**
+        *   "Work hard" is quantitatively and qualitatively measured by community contribution (labor, innovation, teaching, art that enriches society).
+        *   "Allowed to have" means greater access to community resources: better housing allocations, priority for advanced education, use of community vacation properties, etc.
+        *   **Not a Currency:** Merit is not a tradable token; it is a standing that determines your priority and access level within the communal pool.
+*   **Society:** Highly cooperative, focused on collective advancement. Inequality exists not in private wealth, but in social capital and access privileges earned through service.
 
-Both systems share fundamental Neddist values but differ in resource allocation mechanisms.
+### **B. Selfoneddism: The Sovereign Individual System**
 
----
+*   **Analog:** Heavily modified Capitalism with a core ethos of radical personal responsibility and financial discipline.
+*   **Core Tenet:** The individual is the absolute owner of their labor, property, and capital. They exist either in isolation, in a Selfoneddist community, or as an autonomous unit within a Publoneddist society (with negotiated treaties).
+*   **Mechanism of Use:**
+    *   Individuals engage in trade, markets, and employment as they see fit, bound only by the Six Pillars (no fraud, coercion, etc.).
+    *   The system generates private money and finances.
+*   **The Recommended "Traditional Method" (Ethical Framework):**
+    > "70-85% goes to save and used if 100% necessary, and the rest goes all for fun."
+    *   This is not a law, but a **cultural ideal** of extreme frugality and long-term security.
+    *   **The 70-85% (Save/Necessity Pool):** Covers all true necessities (shelter, nutritious food, healthcare, insurance, tools of trade) and, crucially, massive savings. This savings is for existential emergencies, strategic investment in future capability, or as a buffer against compulsion.
+    *   **The 15-30% (Fun/Voluntary Allocation):** All discretionary spending. This is for leisure, luxury, gifts, and voluntary charitable acts—the pure expression of personal joy without compromising security.
+    *   **Philosophy:** This method ensures the individual is **invulnerable to coercion** (Pillar 5) because they are financially independent. It maximizes future freedom.
 
-## **Publoneddism: Community-Based Model**
+## **IV. Political Structure**
 
-### **Definition**
-Publoneddism is a system where the entire Neddist community holds collective ownership of major resources and means of production, comparable to Market Socialism but with enhanced individual usage rights.
+A Neddist polity is a **Voluntary Protective Association (VPA)**.
+*   Governance is minimalist, existing solely to:
+    1.  Uphold and adjudicate the **Six Pillars**.
+    2.  Manage communal resources in **Publoneddism**.
+    3.  Enforce contracts and defend against external aggression.
+*   Leadership is **meritocratic and recallable**. In Publoneddist VPAs, leaders are top contributors. In Selfoneddist VPAs, they may be hired arbitrators or security providers.
+*   **Exit is always a right.** Any individual or group may secede from the VPA, taking their rightful property (Selfoneddism) or negotiated share of communal assets (Publoneddism).
 
-### **Core Principles**
-- **Collective Ownership:** Land, healthcare infrastructure, educational institutions, and major industries are owned by the community as a whole
-- **Usage Rights:** Individuals or groups may use resources with permission from the "formal owner" (the person or entity that would own it under traditional property systems)
-- **Stewardship Model:** Resources are managed by elected or appointed stewards accountable to the community
-- **Market Mechanisms:** While ownership is collective, distribution often operates through modified market systems
+## **V. Synthesis & Conclusion**
 
-### **Resource Access Framework**
-1. **Personal Use:** Granted upon reasonable request
-2. **Commercial Use:** Requires community approval and revenue sharing
-3. **Essential Services:** Healthcare, education, and basic utilities operate on need-based access
-4. **Dispute Resolution:** Community boards mediate conflicting usage claims
+Neddism presents a dual-path system unified by an uncompromising social code:
 
-### **Economic Structure**
-- **Currency:** Community currencies or labor credits often supplement traditional money
-- **Production:** Worker cooperatives and community enterprises dominate
-- **Distribution:** Mixed system combining need-based allocation for essentials and market-based for non-essentials
-- **Investment:** Community-controlled investment funds finance new ventures
+*   **Publoneddism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective, eliminating poverty and alienation through shared ownership and merit-based access.
+*   **Selfoneddism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom, and interaction with others is purely voluntary and market-based.
 
----
-
-## **Selfoneddism: Individual-Based Model**
-
-### **Definition**
-Selfoneddism applies Neddist principles to individuals living outside collective communities, emphasizing personal financial management within an ethical framework.
-
-### **Core Principles**
-- **Individual Ownership:** Personal property and resources are owned individually
-- **Financial Autonomy:** Complete control over personal finances
-- **Ethical Framework:** Financial decisions guided by Neddist social principles
-- **Community Optional:** Engagement with Neddist communities is voluntary
-
-### **The 70-85% Principle (Traditional Method)**
-```
-Income Allocation:
-├── 70-85% → Savings & Necessities
-│   ├── Emergency fund (6-12 months expenses)
-│   ├── Long-term investments
-│   ├── Essential expenses (housing, food, healthcare)
-│   └── Used only when 100% necessary
-└── 15-30% → Discretionary Spending
-    ├── Personal enjoyment
-    ├── Charitable giving (voluntary)
-    ├── Skill development
-    └── Community support (if chosen)
-```
-
-### **Variations & Flexibility**
-- **Strict Selfoneddism:** Adheres precisely to the 70-85% savings principle
-- **Flexible Selfoneddism:** Maintains the savings ethos without rigid percentage adherence
-- **Hybrid Approaches:** Partially participates in Publoneddist communities while maintaining separate finances
-
-### **Integration with Broader Society**
-Selfoneddists may participate in conventional economies while:
-1. Avoiding businesses that violate Neddist principles
-2. Seeking voluntary, transparent transactions
-3. Prioritizing self-sufficiency and financial resilience
-4. Optionally contributing to Neddist communities through voluntary support
-
----
-
-## **Governance & Justice**
-
-### **Decision-Making Structures**
-- **Consent-Based Governance:** No decision affecting individuals without their consent
-- **Subsidiarity Principle:** Decisions made at the most local level possible
-- **Rotating Leadership:** Positions of authority are temporary and rotational
-- **Transparent Deliberation:** All governance discussions accessible to community members
-
-### **Justice System**
-- **Restorative Focus:** Prioritizes repairing harm over punishment
-- **Community Juries:** Peers decide cases with emphasis on Pillar 4 (respect and fairness)
-- **No Professional Police:** Community defense handled through rotating citizen duty or voluntary professional services
-- **Rehabilitation Emphasis:** Incapacitation only for immediate threats; otherwise focus on rehabilitation
-
-### **Conflict Resolution**
-1. **Direct Dialogue:** Parties attempt resolution themselves
-2. **Mediation:** Community facilitators assist if direct dialogue fails
-3. **Arbitration:** Binding decisions by mutually-agreed arbitrators
-4. **Community Assembly:** For significant conflicts affecting the broader community
-
----
-
-## **Implementation & Transition**
-
-### **Phased Implementation**
-**Phase 1: Community Formation**
-- Small voluntary communities establish Neddist principles
-- Develop conflict resolution mechanisms
-- Create economic sharing agreements
-
-**Phase 2: Parallel Institutions**
-- Neddist schools, healthcare, and dispute systems operate alongside traditional institutions
-- Demonstrate viability of Neddist approaches
-
-**Phase 3: Gradual Integration**
-- Voluntary adoption by broader society
-- Hybrid systems allowing choice between Neddist and traditional approaches
-
-### **Transition Challenges & Solutions**
-- **Property Rights:** Gradual transition through purchase, gift, or inheritance
-- **Security Concerns:** Voluntary defense associations and proportional response protocols
-- **Economic Integration:** Dual-currency systems and convertible labor credits
-- **Legal Recognition:** Treating Neddist communities as special jurisdiction zones
-
----
-
-## **Criticisms & Responses**
-
-### **Common Criticisms**
-1. **"Too Idealistic":** Assumes rational actors and voluntary cooperation
-   - *Response:* Neddism accounts for human nature through clear boundaries and proportional consequences
-
-2. **"Economic Inefficiency":** Collective ownership may reduce innovation incentives
-   - *Response:* Publoneddism maintains market mechanisms; Selfoneddism preserves individual incentives
-
-3. **"Decision Paralysis":** Requiring universal consent for community actions could prevent necessary measures
-   - *Response:* The "universally agreeable valid reason" exception allows for necessary actions without full consent
-
-4. **"Security Vulnerabilities":** Lack of professional police and military
-   - *Response:* Proportional defense principles and community defense networks provide security without state monopoly on violence
-
-### **Internal Debates**
-- **Rigidity vs Flexibility:** How strictly to interpret the six pillars
-- **Integration vs Separation:** Degree of engagement with non-Neddist societies
-- **Expansion vs Preservation:** Whether to actively grow Neddist communities or maintain small, tight-knit groups
-
----
-
-## **Conclusion: The Neddist Vision**
-
-Neddism represents not a utopian endpoint but a continuous process of balancing:
-- **Individual autonomy** with **social responsibility**
-- **Spontaneous order** with **intentional design**
-- **Local control** with **global fairness**
-
-### **The Living Philosophy**
-As founder Evan Allen envisioned, Neddism remains adaptable to changing circumstances while maintaining its core commitment to voluntary cooperation, proportional response, and respect for human dignity.
-
-### **Invitation to Practice**
-Neddism invites individuals to:
-1. Apply its principles in personal life (Selfoneddism)
-2. Join communities practicing collective ownership (Publoneddism)
-3. Hybridize approaches based on personal circumstances
-4. Continuously refine the philosophy through practice and dialogue
-
-### **Final Principle**
-> "Neddism is not a destination but a direction—a compass pointing toward greater liberty through greater responsibility, toward stronger community through stronger individuals, and toward deeper justice through deeper understanding."
-
-*Doctrine compiled from the original teachings of Evan Allen and subsequent interpretations by early Neddist practitioners. This document represents version 1.0 of the formal Neddist doctrine, subject to revision through community consensus.*
+**The Choice** between them is a choice of social orientation: the collaborative collective or the disciplined sovereign individual. Both are built on the same foundation: **No justified coercion, only voluntary action. No reward without merit. No justice without dignity and fairness.** This is the world Evan Allen systematized: a world where your life is yours, your choices are yours, and your worth is determined by what you do, not what you own or profess.
