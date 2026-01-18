@@ -10,7 +10,7 @@ Its ultimate goal is a society of **maximized individual sovereignty within a fr
 
 ## **II. The Six Pillars**
 
-The bedrock of Neddist society. These are non-negotiable social axioms.
+The Six Pillars for the ideal Neddist society
 
 ### **Pillar 1: The Principle of Non-Interference & Justified Exception**
 > "Every citizen can do anything, as long as it does not sabotage or interfere with anyone else in any harmful way (e.g., stealing, bullying) unless voluntary consent is obtained from every affected party, or a universally agreeable valid reason exists."
