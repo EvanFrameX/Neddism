@@ -8,7 +8,7 @@ Neddism is a synthesized socioeconomic-political ideology born from a critical a
 
 Its ultimate goal is a society of **maximized individual sovereignty within a framework of voluntary, justified cooperation**, where force is never initiated, and all interactions are rooted in consent, merit, and demonstrable necessity.
 
-## **II. The Social Contract: The Six Pillars**
+## **II. The Six Pillars**
 
 The bedrock of Neddist society. These are non-negotiable social axioms.
 
