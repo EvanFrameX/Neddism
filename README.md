@@ -1,10 +1,10 @@
-# **The Complete Doctrine of Neddism**
+# **The Complete Doctrine of Anarchocratic Liberalism**
 
 *Authored by Evan Allen*
 
 ## **I. Philosophical Foundations & Genesis**
 
-Neddism is a synthesized socioeconomic-political ideology born from a critical analysis of four foundational systems: **Socialism** (collective ownership, equity), **Democracy** (popular sovereignty, rights), **Anarchy** (voluntary association, anti-coercion), and **Capitalism** (private initiative, markets). It seeks to harmonize their core valid principles while eliminating their perceived contradictions and failures.
+Neddism, also known as **Anarchocratic Liberalism**, is a synthesized socioeconomic-political ideology born from a critical analysis of four foundational systems: **Socialism** (collective ownership, equity), **Democracy** (popular sovereignty, rights), **Anarchy** (voluntary association, anti-coercion), and **Capitalism** (private initiative, markets). It seeks to harmonize their core valid principles while eliminating their perceived contradictions and failures.
 
 Its ultimate goal is a society of **maximized individual sovereignty within a framework of voluntary, justified cooperation**, where force is never initiated, and all interactions are rooted in consent, merit, and demonstrable necessity.
 
@@ -48,9 +48,9 @@ The Six Pillars for the ideal Neddist society
 
 *   Neddism is concerned with **material reality**, not ideology or speech. Hateful thoughts or offensive speech are not actionable. Only tangible, harmful *actions* (or credible, immediate threats thereof) fall under social sanction. The quality of an outcome is judged by its real-world effects.
 
-## **III. Economic Implementation: The Two Paths**
+## **III. Economic Implementation: The Three Paths**
 
-Neddism branches into two economic systems, chosen by communities or individuals based on preference and context. Both operate under the Six Pillars.
+Neddism branches into three primary economic systems, chosen by communities or individuals based on preference and context. All operate under the Six Pillars.
 
 ### **A. Publoneddism: The Communitarian Meritocracy**
 
@@ -79,21 +79,33 @@ Neddism branches into two economic systems, chosen by communities or individuals
     *   **The 15-30% (Fun/Voluntary Allocation):** All discretionary spending. This is for leisure, luxury, gifts, and voluntary charitable acts—the pure expression of personal joy without compromising security.
     *   **Philosophy:** This method ensures the individual is **invulnerable to coercion** (Pillar 5) because they are financially independent. It maximizes future freedom.
 
+### **C. Military Neddism: The Specialized Defense Framework**
+
+*   **Analog:** A fusion of the core Neddist systems with a stratified security model.
+*   **Core Tenet:** Within a Neddist Voluntary Protective Association (VPA), a single, permanent, and highly specialized group is solely authorized to constitute the state's formal military, special operations, and internal defense command. This framework can be applied to either a Publoneddist or Selfoneddist economic base, creating **Military Publoneddism** or **Military Selfoneddism**.
+*   **Mechanism of Use:**
+    1.  **Sole Mandate:** This designated military group holds the exclusive legal right to conduct organized warfare, national defense operations, and high-intensity internal security actions that exceed the proportional self-defense of individual citizens.
+    2.  **Civilian Supremacy Under the Pillars:** The military group is **not a ruling junta**. It remains subordinate to the civilian VPA governance and the **Six Pillars**. Its mandate is strictly defensive or responsive to VPA-authorized missions.
+    3.  **Voluntary & Meritocratic Composition:** Membership in this group is voluntary and based on extreme merit, psychological fitness, and unwavering commitment to the Neddist doctrine. It is a vocation, not a conscripted duty.
+    4.  **Economic Integration:** In **Military Publoneddism**, the defense group is a specially designated "steward" of communal defense resources. In **Military Selfoneddism**, it operates as a supreme, highly-trusted service provider under contract to the VPA and individual sovereigns.
+*   **Purpose:** To provide an unmatched, professional, and doctrinally pure defense capability without militarizing the entire society or creating competing armed factions, thereby preserving internal peace and external security with maximum efficiency.
+
 ## **IV. Political Structure**
 
 A Neddist polity is a **Voluntary Protective Association (VPA)**.
 *   Governance is minimalist, existing solely to:
     1.  Uphold and adjudicate the **Six Pillars**.
     2.  Manage communal resources in **Publoneddism**.
-    3.  Enforce contracts and defend against external aggression.
-*   Leadership is **meritocratic and recallable**. In Publoneddist VPAs, leaders are top contributors. In Selfoneddist VPAs, they may be hired arbitrators or security providers.
+    3.  Enforce contracts and defend against external aggression (a role which may be delegated to the specialized group in **Military Neddism**).
+*   Leadership is **meritocratic and recallable**. In Publoneddist VPAs, leaders are top contributors. In Selfoneddist VPAs, they may be hired arbitrators or security providers. In Military Neddism, civilian leadership retains ultimate control over the military mandate.
 *   **Exit is always a right.** Any individual or group may secede from the VPA, taking their rightful property (Selfoneddism) or negotiated share of communal assets (Publoneddism).
 
 ## **V. Synthesis & Conclusion**
 
-Neddism presents a dual-path system unified by an uncompromising social code:
+Neddism (Anarchocratic Liberalism) presents a multi-path system unified by an uncompromising social code:
 
-*   **Publoneddism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective, eliminating poverty and alienation through shared ownership and merit-based access.
-*   **Selfoneddism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom, and interaction with others is purely voluntary and market-based.
+*   **Publoneddism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective.
+*   **Selfoneddism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom.
+*   **Military Neddism** provides a specialized, high-trust defense framework compatible with either economic model, ensuring security without sacrificing core liberties.
 
-**The Choice** between them is a choice of social orientation: the collaborative collective or the disciplined sovereign individual. Both are built on the same foundation: **No justified coercion, only voluntary action. No reward without merit. No justice without dignity and fairness.** This is the world Evan Allen systematized: a world where your life is yours, your choices are yours, and your worth is determined by what you do, not what you own or profess.
+**The Choice** between them is a choice of social and strategic orientation. All are built on the same foundation: **No justified coercion, only voluntary action. No reward without merit. No justice without dignity and fairness.** This is the world systematized under Anarchocratic Liberalism: a world where your life is yours, your choices are yours, and your worth is determined by what you do, not what you own or profess.
