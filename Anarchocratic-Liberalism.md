@@ -32,7 +32,7 @@ The Six Pillars for the ideal Neddist society
 *   This legitimizes resistance against tyranny, corruption, or any entity violating Pillar 1. It is the enforcement mechanism of the social contract.
 
 ### **Pillar 4: Justice as Global Synthesis**
-> "Justice must be administered as a synthesis of global respect (dignity for all persons) and global fairness (equitable outcomes and opportunities across society)."
+> "Justice must be administered as the extremist mix of global respect and global fairness."
 
 *   **Global Respect:** Justice must never degrade human dignity (no cruel/unusual punishment, respect for the accused).
 *   **Global Fairness:** Outcomes must consider systemic context. Justice seeks to restore not just legal balance, but social and opportunity equity.
@@ -82,7 +82,7 @@ Neddism branches into three primary economic systems, chosen by communities or i
 ### **C. Military Neddism: Anarchocratic Fascism**
 
 *   **Analog:** A fusion of the core Neddist systems with a stratified security model.
-*   **Core Tenet:** Within a Neddist Voluntary Protective Association (VPA), a single, permanent, and highly specialized group is solely authorized to constitute the state's formal military, special operations, and internal defense command. This framework can be applied to either a Publoneddist or Selfoneddist economic base, creating **Military Publoneddism** or **Military Selfoneddism**.
+*   **Core Tenet:** Within a Neddist Voluntary Protective Association (VPA), a single, permanent, and highly specialized group is solely authorized to constitute the state's formal military, special operations, and internal defense command. This framework can be applied to either a Publoneddist or Selfoneddist economic base, creating Anarchocratic **Fascio-Communism** and **Fascio-Capitalism**.
 *   **Mechanism of Use:**
     1.  **Sole Mandate:** This designated military group holds the exclusive legal right to conduct organized warfare, national defense operations, and high-intensity internal security actions that exceed the proportional self-defense of individual citizens.
     2.  **Civilian Supremacy Under the Pillars:** The military group is **not a ruling junta**. It remains subordinate to the civilian VPA governance and the **Six Pillars**. Its mandate is strictly defensive or responsive to VPA-authorized missions.
