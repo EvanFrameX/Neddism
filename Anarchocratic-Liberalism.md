@@ -52,7 +52,7 @@ The Six Pillars for the ideal Neddist society
 
 Neddism branches into three primary economic systems, chosen by communities or individuals based on preference and context. All operate under the Six Pillars.
 
-### **A. Publoneddism: The Communitarian Meritocracy**
+### **A. Publoneddism: Anarchocratic Communism**
 
 *   **Analog:** Market Socialism with a strict Meritocratic overlay.
 *   **Core Tenet:** The community collectively owns all major means of production, essential resources, and public goods (land, healthcare infrastructure, educational institutions, major industries).
@@ -65,7 +65,7 @@ Neddism branches into three primary economic systems, chosen by communities or i
         *   **Not a Currency:** Merit is not a tradable token; it is a standing that determines your priority and access level within the communal pool.
 *   **Society:** Highly cooperative, focused on collective advancement. Inequality exists not in private wealth, but in social capital and access privileges earned through service.
 
-### **B. Selfoneddism: The Sovereign Individual System**
+### **B. Selfoneddism: Anarchocratic Capitalism**
 
 *   **Analog:** Heavily modified Capitalism with a core ethos of radical personal responsibility and financial discipline.
 *   **Core Tenet:** The individual is the absolute owner of their labor, property, and capital. They exist either in isolation, in a Selfoneddist community, or as an autonomous unit within a Publoneddist society (with negotiated treaties).
@@ -79,7 +79,7 @@ Neddism branches into three primary economic systems, chosen by communities or i
     *   **The 15-30% (Fun/Voluntary Allocation):** All discretionary spending. This is for leisure, luxury, gifts, and voluntary charitable acts—the pure expression of personal joy without compromising security.
     *   **Philosophy:** This method ensures the individual is **invulnerable to coercion** (Pillar 5) because they are financially independent. It maximizes future freedom.
 
-### **C. Military Neddism: The Specialized Defense Framework**
+### **C. Military Neddism: Anarchocratic Fascism**
 
 *   **Analog:** A fusion of the core Neddist systems with a stratified security model.
 *   **Core Tenet:** Within a Neddist Voluntary Protective Association (VPA), a single, permanent, and highly specialized group is solely authorized to constitute the state's formal military, special operations, and internal defense command. This framework can be applied to either a Publoneddist or Selfoneddist economic base, creating **Military Publoneddism** or **Military Selfoneddism**.
