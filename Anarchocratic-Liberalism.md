@@ -38,10 +38,12 @@ The Six Pillars for the ideal Neddist society
 *   **Global Fairness:** Outcomes must consider systemic context. Justice seeks to restore not just legal balance, but social and opportunity equity.
 
 ### **Pillar 5: The Anti-Compulsion Principle**
-> "No citizen may be compelled to do anything or go anywhere against their will, unless there exists a valid reason that the affected individual can themselves agree is justified."
+> "No citizen may be compelled to do anything or go anywhere against their will."
 
 *   The ultimate bar for coercion is incredibly high. The "valid reason" must be explainable and justifiable **to the person being compelled**. This fosters a society of persuasion and reason, not mandate.
 *   *Example:* A child cannot be *arbitrarily* forced to the dentist. The parent must explain the necessity of dental health, the consequences of neglect, and the process. The child's understanding and agreement to the justification is required.
+*   **Only Exception**: If the action the individual is forced to helps the state, like a mission to discover enemy tactics or participating the special forces, then it all depends on the individual's capabilities.
+*   *Example*: A person who has a certain disorder or just isn't built for combat shouldn't be forced in the military, but a person who doesn't have any disorder or difficulty can be forced in the military, but they should be put in a section that must act only for backup
 
 ### **Pillar 6: Materialist Focus**
 > "What counts aren't thoughts and insults, but physical action, the process, and the result."
