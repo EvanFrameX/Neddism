@@ -1,10 +1,10 @@
-# **The Complete Doctrine of Anarchocratic Liberalism**
+# **The Complete Doctrine of the Anarchocracy**
 
 *Authored by Evan Allen*
 
 ## **I. Philosophical Foundations & Genesis**
 
-Neddism, also known as **Anarchocratic Liberalism**, is a synthesized socioeconomic-political ideology born from a critical analysis of four foundational systems: **Socialism** (collective ownership, equity), **Democracy** (popular sovereignty, rights), **Anarchy** (voluntary association, anti-coercion), and **Capitalism** (private initiative, markets). It seeks to harmonize their core valid principles while eliminating their perceived contradictions and failures.
+Neddism, also known as **Anarchocratic Liberalism**, is a synthesized socioeconomic political ideology born from a critical analysis of four foundational systems: **Socialism** (collective ownership, equity), **Democracy** (popular sovereignty, rights), **Anarchy** (voluntary association, anti-coercion), and **Capitalism** (private initiative, markets). It seeks to harmonize their core valid principles while eliminating their perceived contradictions and failures.
 
 Its ultimate goal is a society of **maximized individual sovereignty within a framework of voluntary, justified cooperation**, where force is never initiated, and all interactions are rooted in consent, merit, and demonstrable necessity.
 
