@@ -104,7 +104,7 @@ A Neddist polity is a **Voluntary Protective Association (VPA)**.
 
 ## **V. Synthesis & Conclusion**
 
-Anarchocratic (A.) Liberalism presents a multi-path system unified by an uncompromising social code:
+A. (Anarchocratic) Liberalism presents a multi-path system unified by an uncompromising social code:
 
 *   **A. Communism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective.
 *   **A. Capitalism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom.
