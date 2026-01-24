@@ -87,7 +87,7 @@ Neddism branches into three primary economic systems, chosen by communities or i
     1.  **Sole Mandate:** This designated military group holds the exclusive legal right to conduct organized warfare, national defense operations, and high-intensity internal security actions that exceed the proportional self-defense of individual citizens.
     2.  **Civilian Supremacy Under the Pillars:** The military group is **not a ruling junta**. It remains subordinate to the civilian VPA governance and the **Six Pillars**. Its mandate is strictly defensive or responsive to VPA-authorized missions.
     3.  **Voluntary & Meritocratic Composition:** Membership in this group is voluntary and based on extreme merit, psychological fitness, and unwavering commitment to the Neddist doctrine. It is a vocation, not a conscripted duty.
-    4.  **Economic Integration:** In **Military Publoneddism**, the defense group is a specially designated "steward" of communal defense resources. In **Military Selfoneddism**, it operates as a supreme, highly-trusted service provider under contract to the VPA and individual sovereigns.
+    4.  **Economic Integration:** In **Military Publoneddism (Anarchocratic Fascio-Communism)**, the defense group is a specially designated "steward" of communal defense resources. In **Military Selfoneddism (Anarchocratic Fascio-Capitalism)**, it operates as a supreme, highly-trusted service provider under contract to the VPA and individual sovereigns.
 *   **Purpose:** To provide an unmatched, professional, and doctrinally pure defense capability without militarizing the entire society or creating competing armed factions, thereby preserving internal peace and external security with maximum efficiency.
 
 ## **IV. Political Structure**
@@ -104,8 +104,8 @@ A Neddist polity is a **Voluntary Protective Association (VPA)**.
 
 Neddism (Anarchocratic Liberalism) presents a multi-path system unified by an uncompromising social code:
 
-*   **Publoneddism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective.
-*   **Selfoneddism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom.
-*   **Military Neddism** provides a specialized, high-trust defense framework compatible with either economic model, ensuring security without sacrificing core liberties.
+*   **A. Communism** offers a communitarian life where status and comfort are earned through tangible contribution to the collective.
+*   **A. Capitalism** offers a sovereign life of radical self-reliance, where financial discipline is the pathway to ultimate freedom.
+*   **A. Facism (Fascio-Communism & Fascio-Capitalism)** provides a specialized, high-trust defense framework compatible with either economic model, ensuring security without sacrificing core liberties.
 
 **The Choice** between them is a choice of social and strategic orientation. All are built on the same foundation: **No justified coercion, only voluntary action. No reward without merit. No justice without dignity and fairness.** This is the world systematized under Anarchocratic Liberalism: a world where your life is yours, your choices are yours, and your worth is determined by what you do, not what you own or profess.
